@@ -1,16 +1,11 @@
-# merrcury.github.io
-
-<div align='center'>
-  
-![environment](https://img.shields.io/github/deployments/merrcury/merrcury.github.io/github-pages?label=environment)
-![website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmerrcury.github.io%2F)
-![pull_requests](https://img.shields.io/github/issues-pr/merrcury/merrcury.github.io)
-![license](https://img.shields.io/github/license/merrcury/merrcury.github.io)
-
-</div>
+# merrcury.github.io :arrow_right: merrcury.me
 
 
-I am not a web-developer by passion and profession. So, I tried to make a simple portfolio using template provided by [Blackrock Digital LLC](https://github.com/blackrockdigital). 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f893f557-a509-47bf-ba36-a7d47c9d9909/deploy-status)](https://app.netlify.com/sites/merrcury/deploys)
+
+This is my old portfolio website an implementation of Open Source Project of Blackrock Digital LLC. 
+
+Now, I have a new portfolio and it also moved to to new address https://merrcury.me/ 
 
 ## License
 This code released under the MIT license by Blackrock Digital LLC and later on, Sub-Licensed by Himanshu Garg again in MIT.
